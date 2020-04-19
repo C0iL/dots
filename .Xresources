@@ -1,0 +1,5 @@
+*.font:	Liberation Mono:pixelsize=20:antialias=true:autohint=true;
+*.alpha: 0.6
+URxvt*font: xft:Source Han Sans Normal:size=14:antialias=true:autohint=true, \
+	    xft:Font Awesome 5 Brands:size=14:antialias=true, \
+	    xft:Symbola:size=14:antialias=true; 
